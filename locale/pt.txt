@@ -1,0 +1,139 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_D1A5787A_FB98_0DA7_41E8_4366EC2B960B.source = https://wa.me/558331420716
+LinkBehaviour_E750493F_FBA8_0F9D_41EB_1F988DCE2AC5.source = https://wa.me/558331420716
+LinkBehaviour_D1A2F87D_FB98_0D9D_4195_9C1A18235B9F.source = https://www.cienciasmedicas.com.br/
+LinkBehaviour_E63F6F18_FBA8_0363_41C6_7993BC5C0075.source = https://www.cienciasmedicas.com.br/
+LinkBehaviour_E6A37254_FBA8_1DE3_4175_9C89F5285EDB.source = https://www.facebook.com/cienciasmedicaspb
+LinkBehaviour_D1A74878_FB98_0DA3_41E6_17F24157C7F3.source = https://www.facebook.com/cienciasmedicaspb
+WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+LinkBehaviour_D1A7587C_FB98_0DA3_41D6_07D6D223A4C3.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
+LinkBehaviour_DBB7543F_FBE8_059C_41D6_90616432A313.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
+LinkBehaviour_D1A2E876_FB98_0DAF_41D2_551D6230D235.source = https://www.instagram.com/fcmpb/
+LinkBehaviour_E79BCD99_FBA8_0764_41D5_1BD365973D60.source = https://www.instagram.com/fcmpb/
+LinkBehaviour_E6B7E8B2_FBA8_0EA7_41D9_E4B9682724EC.source = https://www.youtube.com/cienciasmedicashoje
+LinkBehaviour_D1A4F87B_FB98_0DA5_41D3_F373F13E65A9.source = https://www.youtube.com/cienciasmedicashoje
+
+## Media
+
+### Audio
+audiores_E91CA25F_FAB8_1D9D_41E0_0AE88DF852B3.mp3Url = media/audio_E9C68F5D_FAB8_039D_41E6_DDDA6A3D9338_pt.mp3
+
+### Title
+panorama_B8D1BDF2_B44D_3571_41E6_16D342AD9950.label = APGH frente sala
+panorama_BF83CB60_B44D_7E92_41E6_8A1C02DCCB11.label = Auditório
+panorama_BF817111_B44D_4AB3_41E0_C2838AB5542F.label = Corredor simulaçao
+panorama_BF809C2D_B443_3A92_41D2_F6B1CFD9CD5F.label = Lab. Multidisciplinar 02
+panorama_BF8F548B_B443_CB96_419F_59486A82C2A0.label = Lab. Multidisciplinar 1
+panorama_D71E8B00_DA9A_5E2E_41E8_BEDE7C31C968.label = Lab1
+panorama_BF80B817_B443_5ABE_41DD_B14BB126B8A6.label = Laboratório BTC
+panorama_BF8F7B47_B442_FE9F_41E3_B5F05B263C2A.label = Sala de briefing
+panorama_BF8FB7B6_B443_55FE_41D3_03B4393DDBEB.label = Sala de descn
+video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E.label = Vídeo01
+panorama_BF8FDDC7_B44D_559F_41DF_61F30AAF5DD2.label = area verde
+panorama_BF8F78D4_B44D_5BB2_41B2_44EA0E90EE2B.label = bibliot01
+panorama_BF811575_B44D_3572_41E3_CBBB14273FC5.label = bobliot02
+panorama_D575A9A7_F07B_380A_41B2_99FFAAEE700D.label = corred restaur mulher sofá
+panorama_FA9AEE23_EF5A_EF9B_41D5_E40E13C85FF9.label = corred terreo
+panorama_FCD15EE3_EF5A_6C9B_41E4_73EAA7E1F1E5.label = corredor 1 andar corrigida
+panorama_BF81273A_B44D_D6F1_41E6_4E74FCF77060.label = corredor APG
+panorama_BF814A56_B44D_FEB1_41C6_C0A9C01227F8.label = corredor anatomia
+panorama_BF8174AF_B44D_CBEF_41E5_888097ED4A1C.label = corredor labs 02
+panorama_BF80CDE5_B44D_5592_41DB_2B36E917DA2E.label = corredor labs(1)
+panorama_BF80E833_B44D_5AF6_41DF_B7A6345642F3.label = corredor treinamento
+panorama_BF80F4DF_B44D_4BAE_41E2_BA6B1B91728A.label = corredor_sec_bibliot
+panorama_EE49B026_F057_080A_41E2_B8CF73F1D668.label = dji novo céu02
+panorama_BF8F3174_B442_CD71_41E2_22425C3F0797.label = entrada
+panorama_E69B286E_C69F_8752_41E0_593CB8FCA833.label = frente auditório
+panorama_BF8F3E48_B442_D691_41B9_318C9D100D9C.label = janela 1 andra
+panorama_D61018C5_DA9A_7A36_41CF_17A160D86E1E.label = lab2corrigida
+panorama_D612E520_DA9A_6A6E_41E6_F9824A53AD15.label = lab3
+panorama_D612E10A_DA9A_AA32_41E0_17B4CF4B7D02.label = lab4
+panorama_BF8F9AFA_B443_7F71_41E3_1CF2B017BB2C.label = restaurante
+panorama_BF8088A1_B443_FB92_41C1_E6754CF2E76F.label = sala APGH
+panorama_F3B5A9CB_EFCA_5494_41E5_458361342A6C.label = sala acompanham labs
+panorama_BF8F5031_B443_CAF2_41D0_87556271FCF8.label = sala anatomia01
+panorama_BF8F5C84_B443_DB92_41B9_AD5A6D91D4C8.label = sala anatomia02
+panorama_BF80805F_B443_CAAE_41E3_01A2DA8B76FC.label = sala corredor labs
+panorama_E71A22BD_C69A_8B36_41DA_115894FF067E.label = sala de aula
+panorama_C06C4869_DA9A_5AFE_41DC_900433B94923.label = sala treinamento
+panorama_BF80709C_B443_4BB2_41E1_6D0DCAEE9498.label = secret
+
+### Video
+videolevel_D7BF7C98_FB98_0564_41C2_1090A3710A8B.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
+videolevel_D7BF7C98_FB98_0564_41C2_1090A3710A8B.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_E66654B4_F079_080D_41A6_99DE90936F2E.label = Auditório
+Button_E66654B4_F079_080D_41A6_99DE90936F2E_mobile.label = Auditório
+Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE.label = BTC
+Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE_mobile.label = BTC
+Button_E66614B4_F079_080D_41E3_B7AEFEB56324.label = Biblioteca
+Button_E66614B4_F079_080D_41E3_B7AEFEB56324_mobile.label = Biblioteca
+Button_DA01E034_FBF8_FDA3_41CB_9CD13A9ADD41_mobile.label = Começar
+Button_DA01E034_FBF8_FDA3_41CB_9CD13A9ADD41.label = Começar
+Button_E667B4B8_F079_0805_41C5_80C84B1ED19F_mobile.label = Garden
+Button_E667B4B8_F079_0805_41C5_80C84B1ED19F.label = Garden
+Button_E66634B4_F079_080D_41D5_F66DBDB78EE7.pressedLabel = Inserdt Text
+Button_E66634B4_F079_080D_41D5_F66DBDB78EE7_mobile.pressedLabel = Inserdt Text
+Button_E666D4B4_F079_080D_41DC_D20162D00FBB_mobile.label = Laboratórios >>
+Button_E666D4B4_F079_080D_41DC_D20162D00FBB.label = Laboratórios >>
+Button_E667A4B8_F079_0805_41E0_CDC53DD29C7F.label = Lorem Ipsum
+Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE.pressedLabel = Lorem Ipsum
+Button_E667A4B8_F079_0805_41E0_CDC53DD29C7F_mobile.label = Lorem Ipsum
+Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE_mobile.pressedLabel = Lorem Ipsum
+Button_E66734B8_F079_0805_41EB_0DCA8CEDFA17.label = Multidisciplinar 01 
+Button_E66734B8_F079_0805_41EB_0DCA8CEDFA17_mobile.label = Multidisciplinar 01 
+Button_E66714B8_F079_0805_41D8_ADFA9EFDC7D5.label = Multidisciplinar 02
+Button_E66714B8_F079_0805_41D8_ADFA9EFDC7D5_mobile.label = Multidisciplinar 02
+Button_E66664B7_F079_080B_41D7_58F0B9030D08.pressedLabel = Reception
+Button_E66664B7_F079_080B_41D7_58F0B9030D08_mobile.pressedLabel = Reception
+Button_E66634B4_F079_080D_41D5_F66DBDB78EE7_mobile.label = Restaurante
+Button_E66634B4_F079_080D_41D5_F66DBDB78EE7.label = Restaurante
+Button_E664A4B6_F079_080D_41C2_976DFB1CA501.label = Sala 01
+Button_E664A4B6_F079_080D_41C2_976DFB1CA501_mobile.label = Sala 01
+Button_E66484B6_F079_080D_41EB_91A33927C749_mobile.label = Sala 02
+Button_E66484B6_F079_080D_41EB_91A33927C749.label = Sala 02
+Button_E66664B7_F079_080B_41D7_58F0B9030D08.label = Sala 03
+Button_E66664B7_F079_080B_41D7_58F0B9030D08_mobile.label = Sala 03
+Button_E66644B7_F079_080B_41E1_FA8215F5A469_mobile.label = Sala 04
+Button_E66644B7_F079_080B_41E1_FA8215F5A469.label = Sala 04
+Button_E66674B4_F079_080D_41C7_1D6F49E0C02E.label = Salas de APG
+Button_E66674B4_F079_080D_41C7_1D6F49E0C02E_mobile.label = Salas de APG
+Button_E666F4B3_F079_080B_41D0_84BCF299138C.label = Salas de Simulação >>
+Button_E666F4B3_F079_080B_41D0_84BCF299138C_mobile.label = Salas de Simulação >>
+Button_E667F4B8_F079_0805_41CF_865A1B480587.label = Voltar
+Button_E66744B6_F079_080D_41E7_D611BFAC1219_mobile.label = Voltar
+Button_E667F4B8_F079_0805_41CF_865A1B480587_mobile.label = Voltar
+Button_E66744B6_F079_080D_41E7_D611BFAC1219.label = Voltar
+
+### Image
+Image_A6820047_BCD4_7727_41BF_3BC70DF77753_mobile.url = skin/Image_A6820047_BCD4_7727_41BF_3BC70DF77753_mobile_pt.png
+Image_A6820047_BCD4_7727_41BF_3BC70DF77753.url = skin/Image_A6820047_BCD4_7727_41BF_3BC70DF77753_pt.png
+Image_DA904E50_FBE8_05E3_41BB_EA8519BC53F8_mobile.url = skin/Image_DA904E50_FBE8_05E3_41BB_EA8519BC53F8_mobile_pt.png
+Image_DA904E50_FBE8_05E3_41BB_EA8519BC53F8.url = skin/Image_DA904E50_FBE8_05E3_41BB_EA8519BC53F8_pt.png
+Image_E66764B9_F079_0807_41E9_12499333D040_mobile.url = skin/Image_E66764B9_F079_0807_41E9_12499333D040_mobile_pt.png
+Image_E66764B9_F079_0807_41E9_12499333D040.url = skin/Image_E66764B9_F079_0807_41E9_12499333D040_pt.png
+Image_E8A1CAEE_FA98_02BF_41EB_19A9BA83DE24_mobile.url = skin/Image_E8A1CAEE_FA98_02BF_41EB_19A9BA83DE24_mobile_pt.gif
+Image_E8A1CAEE_FA98_02BF_41EB_19A9BA83DE24.url = skin/Image_E8A1CAEE_FA98_02BF_41EB_19A9BA83DE24_pt.gif
+Image_EA1FBCDB_FAE8_06E5_41D6_A0788EF18FE0_mobile.url = skin/Image_EA1FBCDB_FAE8_06E5_41D6_A0788EF18FE0_mobile_pt.png
+Image_EA1FBCDB_FAE8_06E5_41D6_A0788EF18FE0.url = skin/Image_EA1FBCDB_FAE8_06E5_41D6_A0788EF18FE0_pt.png
+Image_EA268E12_FAE8_0567_41EB_1F5DEE59C431_mobile.url = skin/Image_EA268E12_FAE8_0567_41EB_1F5DEE59C431_mobile_pt.png
+Image_EA268E12_FAE8_0567_41EB_1F5DEE59C431.url = skin/Image_EA268E12_FAE8_0567_41EB_1F5DEE59C431_pt.png
+Image_EBAB3D63_FAE8_07A5_41E2_5F5EBA9772BC_mobile.url = skin/Image_EBAB3D63_FAE8_07A5_41E2_5F5EBA9772BC_mobile_pt.png
+Image_EBAB3D63_FAE8_07A5_41E2_5F5EBA9772BC.url = skin/Image_EBAB3D63_FAE8_07A5_41E2_5F5EBA9772BC_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = FCM
