@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-LinkBehaviour_D1A5787A_FB98_0DA7_41E8_4366EC2B960B.source = https://wa.me/558331420716
+LinkBehaviour_D7036410_FAA8_0563_41CF_DFE0CC12AEA3.source = https://wa.me/558331420716
 LinkBehaviour_E750493F_FBA8_0F9D_41EB_1F988DCE2AC5.source = https://wa.me/558331420716
-LinkBehaviour_D1A2F87D_FB98_0D9D_4195_9C1A18235B9F.source = https://www.cienciasmedicas.com.br/
+LinkBehaviour_D7039413_FAA8_0565_41DC_6B46FACC4302.source = https://www.cienciasmedicas.com.br/
 LinkBehaviour_E63F6F18_FBA8_0363_41C6_7993BC5C0075.source = https://www.cienciasmedicas.com.br/
+LinkBehaviour_D704D40F_FAA8_057D_41E9_E9F3F1C49DB3.source = https://www.facebook.com/cienciasmedicaspb
 LinkBehaviour_E6A37254_FBA8_1DE3_4175_9C89F5285EDB.source = https://www.facebook.com/cienciasmedicaspb
-LinkBehaviour_D1A74878_FB98_0DA3_41E6_17F24157C7F3.source = https://www.facebook.com/cienciasmedicaspb
 WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
 WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
-LinkBehaviour_D1A7587C_FB98_0DA3_41D6_07D6D223A4C3.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
+LinkBehaviour_D7025411_FAA8_0564_41DC_19ACB0676A47.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
 LinkBehaviour_DBB7543F_FBE8_059C_41D6_90616432A313.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
-LinkBehaviour_D1A2E876_FB98_0DAF_41D2_551D6230D235.source = https://www.instagram.com/fcmpb/
+LinkBehaviour_D704D40E_FAA8_057F_41E0_1D989ECE4242.source = https://www.instagram.com/fcmpb/
 LinkBehaviour_E79BCD99_FBA8_0764_41D5_1BD365973D60.source = https://www.instagram.com/fcmpb/
 LinkBehaviour_E6B7E8B2_FBA8_0EA7_41D9_E4B9682724EC.source = https://www.youtube.com/cienciasmedicashoje
-LinkBehaviour_D1A4F87B_FB98_0DA5_41D3_F373F13E65A9.source = https://www.youtube.com/cienciasmedicashoje
+LinkBehaviour_D703F411_FAA8_0565_41EF_49DEB5BA1EDC.source = https://www.youtube.com/cienciasmedicashoje
 
 ## Media
 
@@ -37,7 +37,6 @@ video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E.label = Vídeo01
 panorama_BF8FDDC7_B44D_559F_41DF_61F30AAF5DD2.label = area verde
 panorama_BF8F78D4_B44D_5BB2_41B2_44EA0E90EE2B.label = bibliot01
 panorama_BF811575_B44D_3572_41E3_CBBB14273FC5.label = bobliot02
-panorama_D575A9A7_F07B_380A_41B2_99FFAAEE700D.label = corred restaur mulher sofá
 panorama_FA9AEE23_EF5A_EF9B_41D5_E40E13C85FF9.label = corred terreo
 panorama_FCD15EE3_EF5A_6C9B_41E4_73EAA7E1F1E5.label = corredor 1 andar corrigida
 panorama_BF81273A_B44D_D6F1_41E6_4E74FCF77060.label = corredor APG
@@ -64,8 +63,8 @@ panorama_C06C4869_DA9A_5AFE_41DC_900433B94923.label = sala treinamento
 panorama_BF80709C_B443_4BB2_41E1_6D0DCAEE9498.label = secret
 
 ### Video
-videolevel_D7BF7C98_FB98_0564_41C2_1090A3710A8B.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
-videolevel_D7BF7C98_FB98_0564_41C2_1090A3710A8B.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
+videolevel_D58DBC39_FAE8_05A5_41EE_1C06459615F4.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
+videolevel_D58DBC39_FAE8_05A5_41EE_1C06459615F4.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
 
 ### Video Subtitles
 
