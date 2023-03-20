@@ -1,6 +1,7 @@
 {
  "display": "fullscreen",
- "background_color": "#FFFFFF",
+ "theme_color": "#E5EFF1",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
+ "background_color": "#E5EFF1",
  "name": "FCM"
 }
