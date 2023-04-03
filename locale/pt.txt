@@ -3,10 +3,11 @@
 ## Action
 
 ### URL
-LinkBehaviour_D7036410_FAA8_0563_41CF_DFE0CC12AEA3.source = https://wa.me/558331420716
 LinkBehaviour_E750493F_FBA8_0F9D_41EB_1F988DCE2AC5.source = https://wa.me/558331420716
-LinkBehaviour_D7039413_FAA8_0565_41DC_6B46FACC4302.source = https://www.cienciasmedicas.com.br/
+LinkBehaviour_D7036410_FAA8_0563_41CF_DFE0CC12AEA3.source = https://wa.me/558331420716
+LinkBehaviour_150D82A2_04D3_529E_415B_3AFB5F0185EF.source = https://wa.me/5583998026422
 LinkBehaviour_E63F6F18_FBA8_0363_41C6_7993BC5C0075.source = https://www.cienciasmedicas.com.br/
+LinkBehaviour_D7039413_FAA8_0565_41DC_6B46FACC4302.source = https://www.cienciasmedicas.com.br/
 LinkBehaviour_D704D40F_FAA8_057D_41E9_E9F3F1C49DB3.source = https://www.facebook.com/cienciasmedicaspb
 LinkBehaviour_E6A37254_FBA8_1DE3_4175_9C89F5285EDB.source = https://www.facebook.com/cienciasmedicaspb
 WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
@@ -21,7 +22,7 @@ LinkBehaviour_D703F411_FAA8_0565_41EF_49DEB5BA1EDC.source = https://www.youtube.
 ## Media
 
 ### Audio
-audiores_E91CA25F_FAB8_1D9D_41E0_0AE88DF852B3.mp3Url = media/audio_E9C68F5D_FAB8_039D_41E6_DDDA6A3D9338_pt.mp3
+audiores_015DCA4E_0FAB_85AB_41A0_01F09A5B51DC.mp3Url = media/audio_01C68068_0FAA_8597_41AE_5CA7052942AC_pt.mp3
 
 ### Title
 panorama_B8D1BDF2_B44D_3571_41E6_16D342AD9950.label = APGH frente sala
@@ -62,48 +63,49 @@ panorama_C06C4869_DA9A_5AFE_41DC_900433B94923.label = sala treinamento
 panorama_BF80709C_B443_4BB2_41E1_6D0DCAEE9498.label = secret
 
 ### Video
-videolevel_2C43DE89_01D8_DBDA_414A_5B22C7B62F7B.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
-videolevel_2C43DE89_01D8_DBDA_414A_5B22C7B62F7B.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
+videolevel_1F83274D_0FBB_8BA9_4193_92D63128EC8F.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
+videolevel_1F83274D_0FBB_8BA9_4193_92D63128EC8F.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
 
 ### Video Subtitles
+
+## Right Click Menu
+
+### Text
+menuItem_16481D25_04D5_579A_4160_E58285FA1071.label = Criado pela vide360
 
 ## Skin
 
 ### Button
-Button_E66654B4_F079_080D_41A6_99DE90936F2E_mobile.label = Auditório
 Button_E66654B4_F079_080D_41A6_99DE90936F2E.label = Auditório
+Button_E66654B4_F079_080D_41A6_99DE90936F2E_mobile.label = Auditório
 Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE.label = BTC
 Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE_mobile.label = BTC
 Button_E66614B4_F079_080D_41E3_B7AEFEB56324.label = Biblioteca
 Button_E66614B4_F079_080D_41E3_B7AEFEB56324_mobile.label = Biblioteca
-Button_DA01E034_FBF8_FDA3_41CB_9CD13A9ADD41.label = FECHAR
 Button_DA01E034_FBF8_FDA3_41CB_9CD13A9ADD41_mobile.label = FECHAR
+Button_DA01E034_FBF8_FDA3_41CB_9CD13A9ADD41.label = FECHAR
 Button_E667B4B8_F079_0805_41C5_80C84B1ED19F_mobile.label = Garden
 Button_E667B4B8_F079_0805_41C5_80C84B1ED19F.label = Garden
-Button_2137A522_00F9_4ECE_4127_CEF87B369408_mobile.label = Lab. de Anatomia
 Button_1FDE8D9C_00F8_D9FB_410C_EEEA37585F80.label = Lab. de Anatomia
+Button_2137A522_00F9_4ECE_4127_CEF87B369408_mobile.label = Lab. de Anatomia
 Button_E666D4B4_F079_080D_41DC_D20162D00FBB.label = Laboratórios >>
 Button_E666D4B4_F079_080D_41DC_D20162D00FBB_mobile.label = Laboratórios >>
 Button_E667A4B8_F079_0805_41E0_CDC53DD29C7F.label = Lorem Ipsum
-Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE.pressedLabel = Lorem Ipsum
 Button_E667A4B8_F079_0805_41E0_CDC53DD29C7F_mobile.label = Lorem Ipsum
-Button_E66774B9_F079_0807_41E2_4C7E03ADF5DE_mobile.pressedLabel = Lorem Ipsum
 Button_E66734B8_F079_0805_41EB_0DCA8CEDFA17_mobile.label = Multidisciplinar 01 
 Button_E66734B8_F079_0805_41EB_0DCA8CEDFA17.label = Multidisciplinar 01 
-Button_E66714B8_F079_0805_41D8_ADFA9EFDC7D5_mobile.label = Multidisciplinar 02
 Button_E66714B8_F079_0805_41D8_ADFA9EFDC7D5.label = Multidisciplinar 02
-Button_E66664B7_F079_080B_41D7_58F0B9030D08_mobile.pressedLabel = Reception
-Button_E66664B7_F079_080B_41D7_58F0B9030D08.pressedLabel = Reception
+Button_E66714B8_F079_0805_41D8_ADFA9EFDC7D5_mobile.label = Multidisciplinar 02
 Button_E66634B4_F079_080D_41D5_F66DBDB78EE7_mobile.label = Restaurante
 Button_E66634B4_F079_080D_41D5_F66DBDB78EE7.label = Restaurante
-Button_E664A4B6_F079_080D_41C2_976DFB1CA501.label = Sala 01
 Button_E664A4B6_F079_080D_41C2_976DFB1CA501_mobile.label = Sala 01
+Button_E664A4B6_F079_080D_41C2_976DFB1CA501.label = Sala 01
 Button_E66484B6_F079_080D_41EB_91A33927C749_mobile.label = Sala 02
 Button_E66484B6_F079_080D_41EB_91A33927C749.label = Sala 02
-Button_E66664B7_F079_080B_41D7_58F0B9030D08.label = Sala 03
 Button_E66664B7_F079_080B_41D7_58F0B9030D08_mobile.label = Sala 03
-Button_E66644B7_F079_080B_41E1_FA8215F5A469_mobile.label = Sala 04
+Button_E66664B7_F079_080B_41D7_58F0B9030D08.label = Sala 03
 Button_E66644B7_F079_080B_41E1_FA8215F5A469.label = Sala 04
+Button_E66644B7_F079_080B_41E1_FA8215F5A469_mobile.label = Sala 04
 Button_E66674B4_F079_080D_41C7_1D6F49E0C02E_mobile.label = Salas de APG
 Button_E66674B4_F079_080D_41C7_1D6F49E0C02E.label = Salas de APG
 Button_E666F4B3_F079_080B_41D0_84BCF299138C.label = Salas de Simulação >>
