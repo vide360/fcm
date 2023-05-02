@@ -3,26 +3,38 @@
 ## Action
 
 ### URL
-LinkBehaviour_E750493F_FBA8_0F9D_41EB_1F988DCE2AC5.source = https://wa.me/558331420716
 LinkBehaviour_D7036410_FAA8_0563_41CF_DFE0CC12AEA3.source = https://wa.me/558331420716
+LinkBehaviour_E750493F_FBA8_0F9D_41EB_1F988DCE2AC5.source = https://wa.me/558331420716
 LinkBehaviour_150D82A2_04D3_529E_415B_3AFB5F0185EF.source = https://wa.me/5583998026422
-LinkBehaviour_E63F6F18_FBA8_0363_41C6_7993BC5C0075.source = https://www.cienciasmedicas.com.br/
 LinkBehaviour_D7039413_FAA8_0565_41DC_6B46FACC4302.source = https://www.cienciasmedicas.com.br/
-LinkBehaviour_D704D40F_FAA8_057D_41E9_E9F3F1C49DB3.source = https://www.facebook.com/cienciasmedicaspb
+LinkBehaviour_E63F6F18_FBA8_0363_41C6_7993BC5C0075.source = https://www.cienciasmedicas.com.br/
 LinkBehaviour_E6A37254_FBA8_1DE3_4175_9C89F5285EDB.source = https://www.facebook.com/cienciasmedicaspb
+LinkBehaviour_D704D40F_FAA8_057D_41E9_E9F3F1C49DB3.source = https://www.facebook.com/cienciasmedicaspb
 WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
 WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
-LinkBehaviour_D7025411_FAA8_0564_41DC_19ACB0676A47.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
 LinkBehaviour_DBB7543F_FBE8_059C_41D6_90616432A313.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
-LinkBehaviour_D704D40E_FAA8_057F_41E0_1D989ECE4242.source = https://www.instagram.com/fcmpb/
+LinkBehaviour_D7025411_FAA8_0564_41DC_19ACB0676A47.source = https://www.google.com/maps/place/Faculdade+de+Ci%C3%AAncias+M%C3%A9dicas+da+Para%C3%ADba/@-7.0451401,-34.847582,18.75z/data=!4m6!3m5!1s0x7acdf861cbb62c9:0x4a1d05b6faf6ed34!8m2!3d-7.0447247!4d-34.8481124!16s%2Fg%2F11c3kzh364
 LinkBehaviour_E79BCD99_FBA8_0764_41D5_1BD365973D60.source = https://www.instagram.com/fcmpb/
-LinkBehaviour_E6B7E8B2_FBA8_0EA7_41D9_E4B9682724EC.source = https://www.youtube.com/cienciasmedicashoje
+LinkBehaviour_D704D40E_FAA8_057F_41E0_1D989ECE4242.source = https://www.instagram.com/fcmpb/
 LinkBehaviour_D703F411_FAA8_0565_41EF_49DEB5BA1EDC.source = https://www.youtube.com/cienciasmedicashoje
+LinkBehaviour_E6B7E8B2_FBA8_0EA7_41D9_E4B9682724EC.source = https://www.youtube.com/cienciasmedicashoje
 
 ## Media
 
 ### Audio
 audiores_015DCA4E_0FAB_85AB_41A0_01F09A5B51DC.mp3Url = media/audio_01C68068_0FAA_8597_41AE_5CA7052942AC_pt.mp3
+
+### Image
+imlevel_C02549EF_DCF4_6D2D_41BF_B52B1664986C.url = media/zoomImage_C736A3E9_DD2C_7D55_41DA_9B14EB9E65ED_pt_0_0.png
+imlevel_C02569EF_DCF4_6D2D_41C0_368E90DEB565.url = media/zoomImage_C736A3E9_DD2C_7D55_41DA_9B14EB9E65ED_pt_0_1.png
+imlevel_C02579EF_DCF4_6D2D_41CF_614104D2502B.url = media/zoomImage_C736A3E9_DD2C_7D55_41DA_9B14EB9E65ED_pt_0_2.png
+imlevel_C02589F0_DCF4_6D33_41D0_5A35DB923D74.url = media/zoomImage_C736A3E9_DD2C_7D55_41DA_9B14EB9E65ED_pt_0_3.png
+imlevel_C025D9FE_DCF4_6D2F_4197_E85258FDE494.url = media/zoomImage_CD32CE3D_DD77_A732_41CC_996FF900AA16_pt_0_0.png
+imlevel_C025F9FF_DCF4_6D2D_41E1_3996BB8F6B4A.url = media/zoomImage_CD32CE3D_DD77_A732_41CC_996FF900AA16_pt_0_1.png
+imlevel_C02419FF_DCF4_6D2D_41D1_595B9B7AB8F2.url = media/zoomImage_CD32CE3D_DD77_A732_41CC_996FF900AA16_pt_0_2.png
+imlevel_C02429FF_DCF4_6D2D_41E6_ACD6A489BF7C.url = media/zoomImage_CD32CE3D_DD77_A732_41CC_996FF900AA16_pt_0_3.png
+
+### Popup Image
 
 ### Title
 panorama_B8D1BDF2_B44D_3571_41E6_16D342AD9950.label = APGH frente sala
@@ -63,8 +75,8 @@ panorama_C06C4869_DA9A_5AFE_41DC_900433B94923.label = sala treinamento
 panorama_BF80709C_B443_4BB2_41E1_6D0DCAEE9498.label = secret
 
 ### Video
-videolevel_592B9AB9_49E4_FB95_41C5_3AD62972FA9C.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
-videolevel_592B9AB9_49E4_FB95_41C5_3AD62972FA9C.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
+videolevel_C05BC6FE_DCF4_672F_41C6_0D0A059F2EBD.posterURL = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_poster_pt.jpg
+videolevel_C05BC6FE_DCF4_672F_41C6_0D0A059F2EBD.url = media/video_D4399A52_C68E_B08D_41CD_AD17D62B8D0E_pt.mp4
 
 ### Video Subtitles
 
